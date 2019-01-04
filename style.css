@@ -1,0 +1,15 @@
+#topHeader {
+	background: url(./img/banner.png) no-repeat;
+	height: 200px;
+	margin-bottom: 15px;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+#siteLogo {
+	margin: 15px 0px 0px 20px;
+	padding: 15px !important;
+	border: 1px solid red;
+	border-radius: 5px;
+}
+
